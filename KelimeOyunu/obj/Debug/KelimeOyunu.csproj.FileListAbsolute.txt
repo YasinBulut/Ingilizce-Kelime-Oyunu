@@ -1,0 +1,10 @@
+D:\Eğitimlerim\UDEMY C# -Murat Yücedağ\25 Derste 25 Proje C#\İNGİLİZCE KELİME OYUNU\KelimeOyunu\bin\Debug\KelimeOyunu.exe.config
+D:\Eğitimlerim\UDEMY C# -Murat Yücedağ\25 Derste 25 Proje C#\İNGİLİZCE KELİME OYUNU\KelimeOyunu\bin\Debug\KelimeOyunu.exe
+D:\Eğitimlerim\UDEMY C# -Murat Yücedağ\25 Derste 25 Proje C#\İNGİLİZCE KELİME OYUNU\KelimeOyunu\bin\Debug\KelimeOyunu.pdb
+D:\Eğitimlerim\UDEMY C# -Murat Yücedağ\25 Derste 25 Proje C#\İNGİLİZCE KELİME OYUNU\KelimeOyunu\obj\Debug\KelimeOyunu.csprojAssemblyReference.cache
+D:\Eğitimlerim\UDEMY C# -Murat Yücedağ\25 Derste 25 Proje C#\İNGİLİZCE KELİME OYUNU\KelimeOyunu\obj\Debug\KelimeOyunu.Form1.resources
+D:\Eğitimlerim\UDEMY C# -Murat Yücedağ\25 Derste 25 Proje C#\İNGİLİZCE KELİME OYUNU\KelimeOyunu\obj\Debug\KelimeOyunu.Properties.Resources.resources
+D:\Eğitimlerim\UDEMY C# -Murat Yücedağ\25 Derste 25 Proje C#\İNGİLİZCE KELİME OYUNU\KelimeOyunu\obj\Debug\KelimeOyunu.csproj.GenerateResource.cache
+D:\Eğitimlerim\UDEMY C# -Murat Yücedağ\25 Derste 25 Proje C#\İNGİLİZCE KELİME OYUNU\KelimeOyunu\obj\Debug\KelimeOyunu.csproj.CoreCompileInputs.cache
+D:\Eğitimlerim\UDEMY C# -Murat Yücedağ\25 Derste 25 Proje C#\İNGİLİZCE KELİME OYUNU\KelimeOyunu\obj\Debug\KelimeOyunu.exe
+D:\Eğitimlerim\UDEMY C# -Murat Yücedağ\25 Derste 25 Proje C#\İNGİLİZCE KELİME OYUNU\KelimeOyunu\obj\Debug\KelimeOyunu.pdb
